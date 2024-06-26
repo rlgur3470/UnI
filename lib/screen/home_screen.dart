@@ -81,7 +81,7 @@ class _Top extends StatelessWidget {
         child: Column(
           children: [
             Text(
-              'Kim&???',
+              'Kim&Jang',
               style: textTheme.displayLarge,
             ),
             Text(
