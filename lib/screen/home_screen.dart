@@ -43,7 +43,7 @@ class _HomeScreenState extends State<HomeScreen> {
           alignment: Alignment.center,
           child: Container(
             color: Colors.white,
-            height: 300,
+            height: 250,
             child: CupertinoDatePicker(
               mode: CupertinoDatePickerMode.date,
               initialDateTime: selectedDate,
